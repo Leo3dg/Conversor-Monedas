@@ -1,0 +1,1182 @@
+[
+ {
+  "Pais": "AFGANISTAN",
+  "Divisa": "Afgani afgano",
+  "Codigo": "AFN"
+ },
+ {
+  "Pais": "ALBANIA",
+  "Divisa": "Lek",
+  "Codigo": "ALL"
+ },
+ {
+  "Pais": "ALEMANIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ALGERIA",
+  "Divisa": "Dinar argelino",
+  "Codigo": "DZD"
+ },
+ {
+  "Pais": "ANDORRA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ANGOLA",
+  "Divisa": "Kwanza angoleño",
+  "Codigo": "AOA"
+ },
+ {
+  "Pais": "ANGUILLA",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "ANTIGUA Y BARBUDA",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "ARABIA SAUDITA",
+  "Divisa": "Riyal saudi",
+  "Codigo": "SAR"
+ },
+ {
+  "Pais": "ARGENTINA",
+  "Divisa": "Peso argentino",
+  "Codigo": "ARS"
+ },
+ {
+  "Pais": "ARMENIA",
+  "Divisa": "Dram armenio",
+  "Codigo": "AMD"
+ },
+ {
+  "Pais": "ARUBA",
+  "Divisa": "Florin arubeño",
+  "Codigo": "AWG"
+ },
+ {
+  "Pais": "AUSTRALIA",
+  "Divisa": "Dolar australiano",
+  "Codigo": "AUD"
+ },
+ {
+  "Pais": "AUSTRIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "AZERBAIYAN",
+  "Divisa": "Manat azerbaiyano",
+  "Codigo": "AZN"
+ },
+ {
+  "Pais": "BAHAMAS (LAS)",
+  "Divisa": "Dolar bahameño",
+  "Codigo": "BSD"
+ },
+ {
+  "Pais": "BANGLADESH",
+  "Divisa": "Taka",
+  "Codigo": "BDT"
+ },
+ {
+  "Pais": "BARBADOS",
+  "Divisa": "Dolar de Barbados",
+  "Codigo": "BBD"
+ },
+ {
+  "Pais": "BAREIN",
+  "Divisa": "Dinar bareini",
+  "Codigo": "BHD"
+ },
+ {
+  "Pais": "BELICE",
+  "Divisa": "Dolar beliceño",
+  "Codigo": "BZD"
+ },
+ {
+  "Pais": "BENIN",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "BERMUDA",
+  "Divisa": "Dolar bermudeño",
+  "Codigo": "BMD"
+ },
+ {
+  "Pais": "BIRMANIA",
+  "Divisa": "Kyat birmano",
+  "Codigo": "MMK"
+ },
+ {
+  "Pais": "BOLIVIA",
+  "Divisa": "Boliviano",
+  "Codigo": "BOB"
+ },
+ {
+  "Pais": "BONAIRE, SAN EUSTAQUIO Y SABA",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "BOSNIA Y HERZEGOVINA",
+  "Divisa": "Marco bosnioherzegovino",
+  "Codigo": "BAM"
+ },
+ {
+  "Pais": "BOTSUANA",
+  "Divisa": "Pula",
+  "Codigo": "BWP"
+ },
+ {
+  "Pais": "BRASIL",
+  "Divisa": "Real brasileño",
+  "Codigo": "BRL"
+ },
+ {
+  "Pais": "BRUNEI DARUSSALAM",
+  "Divisa": "Dolar de Brunei",
+  "Codigo": "BND"
+ },
+ {
+  "Pais": "BULGARIA",
+  "Divisa": "Lev",
+  "Codigo": "BGN"
+ },
+ {
+  "Pais": "BURKINA FASO",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "BURUNDI",
+  "Divisa": "Franco burundes",
+  "Codigo": "BIF"
+ },
+ {
+  "Pais": "BUTAN",
+  "Divisa": "Ngultrum butanes",
+  "Codigo": "BTN"
+ },
+ {
+  "Pais": "BELGICA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "CABO VERDE",
+  "Divisa": "Escudo caboverdiano",
+  "Codigo": "CVE"
+ },
+ {
+  "Pais": "CAMBOYA",
+  "Divisa": "Riel camboyano",
+  "Codigo": "KHR"
+ },
+ {
+  "Pais": "CAMERUN",
+  "Divisa": "Franco CFA de Africa Central",
+  "Codigo": "XAF"
+ },
+ {
+  "Pais": "CANADA",
+  "Divisa": "Dolar canadiense",
+  "Codigo": "CAD"
+ },
+ {
+  "Pais": "CHAD",
+  "Divisa": "Franco CFA de Africa Central",
+  "Codigo": "XAF"
+ },
+ {
+  "Pais": "CHILE",
+  "Divisa": "Peso chileno",
+  "Codigo": "CLP"
+ },
+ {
+  "Pais": "CHINA",
+  "Divisa": "Renminbi",
+  "Codigo": "CNY"
+ },
+ {
+  "Pais": "CHIPRE",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "COLOMBIA",
+  "Divisa": "Peso colombiano",
+  "Codigo": "COP"
+ },
+ {
+  "Pais": "COMORAS",
+  "Divisa": "Franco comorense",
+  "Codigo": "KMF"
+ },
+ {
+  "Pais": "CONGO",
+  "Divisa": "Franco congoleño",
+  "Codigo": "CDF"
+ },
+ {
+  "Pais": "COSTA DE MARFIL",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "COSTA RICA",
+  "Divisa": "Colon costarricense",
+  "Codigo": "CRC"
+ },
+ {
+  "Pais": "CROACIA",
+  "Divisa": "Kuna",
+  "Codigo": "HRK"
+ },
+ {
+  "Pais": "CUBA",
+  "Divisa": "Peso cubano",
+  "Codigo": "CUP"
+ },
+ {
+  "Pais": "CURAZAO",
+  "Divisa": "Florín antillano neerlandés",
+  "Codigo": "ANG"
+ },
+ {
+  "Pais": "DINAMARCA",
+  "Divisa": "Corona danesa",
+  "Codigo": "DKK"
+ },
+ {
+  "Pais": "DOMINICA",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "EGIPTO",
+  "Divisa": "Libra egipcia",
+  "Codigo": "EGP"
+ },
+ {
+  "Pais": "EMIRATOS ÁRABES UNIDOS",
+  "Divisa": "Dirham DE EAU",
+  "Codigo": "AED"
+ },
+ {
+  "Pais": "ERITREA",
+  "Divisa": "Nakfa",
+  "Codigo": "ERN"
+ },
+ {
+  "Pais": "ESLOVAQUIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ESLOVENIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ESPAÑA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ESTADO DE PALESTINA",
+  "Divisa": "Sin divisa universal"
+ },
+ {
+  "Pais": "ESTADOS UNIDOS",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ESTONIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ETIOPIA",
+  "Divisa": "Birr etiope",
+  "Codigo": "ETB"
+ },
+ {
+  "Pais": "FIJI",
+  "Divisa": "Dolar fiyiano",
+  "Codigo": "FJD"
+ },
+ {
+  "Pais": "FILIPINAS",
+  "Divisa": "Peso filipino",
+  "Codigo": "PHP"
+ },
+ {
+  "Pais": "FINLANDIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "FONDO MONETARIO INTERNACIONAL",
+  "Divisa": "SDR (Derecho Especial de Retiro)",
+  "Codigo": "XDR"
+ },
+ {
+  "Pais": "FRANCIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "GABON",
+  "Divisa": "Franco CFA de Africa Central",
+  "Codigo": "XAF"
+ },
+ {
+  "Pais": "GAMBIA",
+  "Divisa": "Dalasi",
+  "Codigo": "GMD"
+ },
+ {
+  "Pais": "GEORGIA",
+  "Divisa": "Lari",
+  "Codigo": "GEL"
+ },
+ {
+  "Pais": "GHANA",
+  "Divisa": "Cedi",
+  "Codigo": "GHS"
+ },
+ {
+  "Pais": "GIBRALTAR",
+  "Divisa": "Libra gibraltareña",
+  "Codigo": "GIP"
+ },
+ {
+  "Pais": "GRANADA",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "GRECIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "GROENLANDIA",
+  "Divisa": "Corona danesa",
+  "Codigo": "DKK"
+ },
+ {
+  "Pais": "GUADALUPE",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "GUAM",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "GUATEMALA",
+  "Divisa": "Quetzal",
+  "Codigo": "GTQ"
+ },
+ {
+  "Pais": "GUERNSEY",
+  "Divisa": "Libra esterlina",
+  "Codigo": "GBP"
+ },
+ {
+  "Pais": "GUINEA",
+  "Divisa": "Franco guineano",
+  "Codigo": "GNF"
+ },
+ {
+  "Pais": "GUINEA ECUATORIAL",
+  "Divisa": "Franco CFA de Africa Central",
+  "Codigo": "XAF"
+ },
+ {
+  "Pais": "GUINEA-BISSAU",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "GUYANA",
+  "Divisa": "Dolar guyanes",
+  "Codigo": "GYD"
+ },
+ {
+  "Pais": "GUYANA FRANCESA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "HAITI",
+  "Divisa": "Gourde",
+  "Codigo": "HTG"
+ },
+ {
+  "Pais": "HOLANDA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "HONDURAS",
+  "Divisa": "Lempira",
+  "Codigo": "HNL"
+ },
+ {
+  "Pais": "HONG KONG",
+  "Divisa": "Dolar de Hong Kong",
+  "Codigo": "HKD"
+ },
+ {
+  "Pais": "HUNGRIA",
+  "Divisa": "Forinto hungaro",
+  "Codigo": "HUF"
+ },
+ {
+  "Pais": "INDIA",
+  "Divisa": "Rupia india",
+  "Codigo": "INR"
+ },
+ {
+  "Pais": "INDONESIA",
+  "Divisa": "Rupia indonesia",
+  "Codigo": "IDR"
+ },
+ {
+  "Pais": "IRAK",
+  "Divisa": "Dinar iraqui",
+  "Codigo": "IQD"
+ },
+ {
+  "Pais": "IRLANDA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ISLA BOUVET",
+  "Divisa": "Corona noruega",
+  "Codigo": "NOK"
+ },
+ {
+  "Pais": "ISLA DE MAN",
+  "Divisa": "Libra esterlina",
+  "Codigo": "GBP"
+ },
+ {
+  "Pais": "ISLANDIA",
+  "Divisa": "Corona islandesa",
+  "Codigo": "ISK"
+ },
+ {
+  "Pais": "ISLAS CAIMAN",
+  "Divisa": "Dolar de las Islas Cayman",
+  "Codigo": "KYD"
+ },
+ {
+  "Pais": "ISLAS COOK (LAS)",
+  "Divisa": "Dolar de la Islas Cook",
+  "Codigo": "NZD"
+ },
+ {
+  "Pais": "ISLAS FAROE",
+  "Divisa": "Corona danesa",
+  "Codigo": "DKK"
+ },
+ {
+  "Pais": "ISLAS GEORGIA DEL SUR Y SÁNDWICH DEL SUR",
+  "Divisa": "Sin divisa universal"
+ },
+ {
+  "Column1": "gbp",
+  "Pais": "ISLAS MALVINAS",
+  "Divisa": "Libra malvinense",
+  "Codigo": "FKP"
+ },
+ {
+  "Pais": "ISLAS MARIANS DEL NORTE",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ISLAS MARSHALL",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ISLAS SALOMON",
+  "Divisa": "Dolar de Islas Salomon",
+  "Codigo": "SBD"
+ },
+ {
+  "Pais": "ISLAS SVALBARD Y JAN MAYEN",
+  "Divisa": "Corona noruega",
+  "Codigo": "NOK"
+ },
+ {
+  "Pais": "ISLAS TURCOS Y CAICOS ",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ISLAS ULTRAMARINAS MENORES DE EE. UU.",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ISLAS VIRGENES",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ISLAS VIRGENES BRITÁNICAS",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "ISLAS ALAND",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "ISRAEL",
+  "Divisa": "Nuevo sequel",
+  "Codigo": "ILS"
+ },
+ {
+  "Pais": "ITALIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "JAMAICA",
+  "Divisa": "Dolar jamaiquino",
+  "Codigo": "JMD"
+ },
+ {
+  "Pais": "JAPON",
+  "Divisa": "Yen",
+  "Codigo": "JPY"
+ },
+ {
+  "Pais": "JERSEY",
+  "Divisa": "Libra esterlina",
+  "Codigo": "GBP"
+ },
+ {
+  "Pais": "JORDANIA",
+  "Divisa": "Dinar jordano",
+  "Codigo": "JOD"
+ },
+ {
+  "Pais": "KAZAJISTAN",
+  "Divisa": "Tenge kazajo",
+  "Codigo": "KZT"
+ },
+ {
+  "Pais": "KENIA",
+  "Divisa": "Chelin keniano",
+  "Codigo": "KES"
+ },
+ {
+  "Pais": "KIRGUISTAN",
+  "Divisa": "Som",
+  "Codigo": "KGS"
+ },
+ {
+  "Pais": "KUWAIT",
+  "Divisa": "Dinar kuwaiti",
+  "Codigo": "KWD"
+ },
+ {
+  "Pais": "LESOTO",
+  "Divisa": "Loti",
+  "Codigo": "LSL"
+ },
+ {
+  "Pais": "LESOTO",
+  "Divisa": "Rand",
+  "Codigo": "ZAR"
+ },
+ {
+  "Pais": "LETONIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "LIBERIA",
+  "Divisa": "Dolar liberiano",
+  "Codigo": "LRD"
+ },
+ {
+  "Pais": "LIBIA",
+  "Divisa": "Dinar libio",
+  "Codigo": "LYD"
+ },
+ {
+  "Pais": "LITUANIA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "LUXEMBURGO",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "LIBANO",
+  "Divisa": "Libra libanesa",
+  "Codigo": "LBP"
+ },
+ {
+  "Pais": "MACAO",
+  "Divisa": "Pataca",
+  "Codigo": "MOP"
+ },
+ {
+  "Pais": "MACEDONIA",
+  "Divisa": "Dinar",
+  "Codigo": "MKD"
+ },
+ {
+  "Pais": "MADAGASCAR",
+  "Divisa": "Ariary malgache",
+  "Codigo": "MGA"
+ },
+ {
+  "Pais": "MALASIA",
+  "Divisa": "Ringgit malayo",
+  "Codigo": "MYR"
+ },
+ {
+  "Pais": "MALAWI",
+  "Divisa": "Kwacha malaui",
+  "Codigo": "MWK"
+ },
+ {
+  "Pais": "MALDIVAS",
+  "Divisa": "Rupia de maldivas",
+  "Codigo": "MVR"
+ },
+ {
+  "Pais": "MALTA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "MALI",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "MARRUECOS",
+  "Divisa": "Dirham marroqui",
+  "Codigo": "MAD"
+ },
+ {
+  "Pais": "MARTINICA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "MAURICIO",
+  "Divisa": "Rupia de Mauricio",
+  "Codigo": "MUR"
+ },
+ {
+  "Pais": "MAYOTTE",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "MICRONESIA",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "MONGOLIA",
+  "Divisa": "Tugrik",
+  "Codigo": "MNT"
+ },
+ {
+  "Pais": "MONTENEGRO",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "MONTSERRAT",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "MOZAMBIQUE",
+  "Divisa": "Metical mozambiqueño",
+  "Codigo": "MZN"
+ },
+ {
+  "Pais": "MEXICO",
+  "Divisa": "Peso mexicano",
+  "Codigo": "MXN"
+ },
+ {
+  "Pais": "MONACO",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "NAMIBIA",
+  "Divisa": "Dolar de Namibia",
+  "Codigo": "NAD"
+ },
+ {
+  "Pais": "NAMIBIA",
+  "Divisa": "Rand",
+  "Codigo": "ZAR"
+ },
+ {
+  "Pais": "NEPAL",
+  "Divisa": "Rupia nepalí",
+  "Codigo": "NPR"
+ },
+ {
+  "Pais": "NICARAGUA",
+  "Divisa": "Cordoba oro",
+  "Codigo": "NIO"
+ },
+ {
+  "Pais": "NIGERIA",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "NIGERIA",
+  "Divisa": "Naira",
+  "Codigo": "NGN"
+ },
+ {
+  "Pais": "NIUE",
+  "Divisa": "Dolar neozelandés",
+  "Codigo": "NZD"
+ },
+ {
+  "Pais": "NORUEGA",
+  "Divisa": "Corona noruega",
+  "Codigo": "NOK"
+ },
+ {
+  "Pais": "NUEVA CALEDONIA",
+  "Divisa": "Franco CFP",
+  "Codigo": "XPF"
+ },
+ {
+  "Pais": "NUEVA ZELANDA",
+  "Divisa": "Dolar neozelandés",
+  "Codigo": "NZD"
+ },
+ {
+  "Pais": "OMAN",
+  "Divisa": "Rial omani",
+  "Codigo": "OMR"
+ },
+ {
+  "Pais": "PAKISTAN",
+  "Divisa": "Rupia pakistani",
+  "Codigo": "PKR"
+ },
+ {
+  "Pais": "PALAU",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "PANAMA",
+  "Divisa": "Balboa",
+  "Codigo": "PAB"
+ },
+ {
+  "Pais": "PAPUA NUEVA GUINEA",
+  "Divisa": "Kina",
+  "Codigo": "PGK"
+ },
+ {
+  "Pais": "PARAGUAY",
+  "Divisa": "Guarani",
+  "Codigo": "PYG"
+ },
+ {
+  "Pais": "PERU",
+  "Divisa": "Sol ",
+  "Codigo": "PEN"
+ },
+ {
+  "Pais": "PITCAIRN",
+  "Divisa": "Dolar neozelandés",
+  "Codigo": "NZD"
+ },
+ {
+  "Pais": "POLINESIA FRANCESA",
+  "Divisa": "Franco CFP",
+  "Codigo": "XPF"
+ },
+ {
+  "Pais": "POLONIA",
+  "Divisa": "Zloty",
+  "Codigo": "PLN"
+ },
+ {
+  "Pais": "PORTUGAL",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "PUERTO RICO",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "QATAR",
+  "Divisa": "Riyal catari",
+  "Codigo": "QAR"
+ },
+ {
+  "Pais": "REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE",
+  "Divisa": "Libra esterlina",
+  "Codigo": "GBP"
+ },
+ {
+  "Pais": "REPUBLICA DEMOCRÁTICA POPULAR LAO",
+  "Divisa": "Kip laosiano",
+  "Codigo": "LAK"
+ },
+ {
+  "Pais": "VENEZUELA",
+  "Divisa": "Bolívar",
+  "Codigo": "VES"
+ },
+ {
+  "Pais": "REPUBLICA CENTROAFRICANA (LA)",
+  "Divisa": "Franco CFA de Africa Central",
+  "Codigo": "XAF"
+ },
+ {
+  "Pais": "REPUBLICA CHECA",
+  "Divisa": "Czech Koruna",
+  "Codigo": "CZK"
+ },
+ {
+  "Pais": "COREA DEL SUR",
+  "Divisa": "Won ",
+  "Codigo": "KRW"
+ },
+ {
+  "Pais": "REPUBLICA DE MOLDAVIA",
+  "Divisa": "Leu Moldavo",
+  "Codigo": "MDL"
+ },
+ {
+  "Pais": "REPUBLICA DOMINICANA",
+  "Divisa": "Peso dominicano",
+  "Codigo": "DOP"
+ },
+ {
+  "Pais": " IRAN",
+  "Divisa": "Rial irani",
+  "Codigo": "IRR"
+ },
+ {
+  "Pais": "TANZANIA",
+  "Divisa": "Chelín tanzano",
+  "Codigo": "TZS"
+ },
+ {
+  "Pais": "SIRIA",
+  "Divisa": "Libra siria",
+  "Codigo": "SYP"
+ },
+ {
+  "Pais": "REUNION",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "RUANDA",
+  "Divisa": "Franco ruandes",
+  "Codigo": "RWF"
+ },
+ {
+  "Pais": "RUMANIA",
+  "Divisa": "Leu rumano",
+  "Codigo": "RON"
+ },
+ {
+  "Pais": "RUSIA",
+  "Divisa": "Rublo ruso",
+  "Codigo": "RUB"
+ },
+ {
+  "Pais": "SAHARA OCCIDENTAL",
+  "Divisa": "Dirham marroqui",
+  "Codigo": "MAD"
+ },
+ {
+  "Pais": "SAMOA",
+  "Divisa": "Tala",
+  "Codigo": "WST"
+ },
+ {
+  "Pais": "SAMOA AMERICANA",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "SAN BARTOLOME",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "SAN CRISTÓBAL Y NIEVES",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "SAN MARINO",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "SAN MARTIN",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "SAN PEDRO Y MIQUELON",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "SAN VICENTE Y LAS GRANADINAS",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "SANTA HELENA ASCENCION Y TRISTAN DE ACUÑA",
+  "Divisa": "Libra de Santa Helena",
+  "Codigo": "SHP"
+ },
+ {
+  "Pais": "SANTA LUCIA",
+  "Divisa": "Dolar del Caribe Oriental",
+  "Codigo": "XCD"
+ },
+ {
+  "Pais": "SANTA SEDE",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "SENEGAL",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "SERBIA",
+  "Divisa": "Dinar serbio",
+  "Codigo": "RSD"
+ },
+ {
+  "Pais": "SEYCHELLES",
+  "Divisa": "Rupia de Seychelles",
+  "Codigo": "SCR"
+ },
+ {
+  "Pais": "SIERRA LEONA",
+  "Divisa": "Leone",
+  "Codigo": "SLL"
+ },
+ {
+  "Pais": "SINGAPUR",
+  "Divisa": "Dolar de Singapur",
+  "Codigo": "SGD"
+ },
+ {
+  "Pais": "SOMALIA",
+  "Divisa": "Chelin somali",
+  "Codigo": "SOS"
+ },
+ {
+  "Pais": "SRI LANKA",
+  "Divisa": "Rupia de Sri Lanka",
+  "Codigo": "LKR"
+ },
+ {
+  "Pais": "SUAZILANDIA",
+  "Divisa": "Lilangeni",
+  "Codigo": "SZL"
+ },
+ {
+  "Pais": "SUDAFRICA",
+  "Divisa": "Rand",
+  "Codigo": "ZAR"
+ },
+ {
+  "Pais": "SUDAN",
+  "Divisa": "Libra sudanesa",
+  "Codigo": "SDG"
+ },
+ {
+  "Pais": "SUDAN DEL SUR",
+  "Divisa": "Libra sursudanesa",
+  "Codigo": "SSP"
+ },
+ {
+  "Pais": "SUECIA",
+  "Divisa": "Corona sueca",
+  "Codigo": "SEK"
+ },
+ {
+  "Pais": "SUIZA",
+  "Divisa": "Franco suizo",
+  "Codigo": "CHF"
+ },
+ {
+  "Pais": "SURINAM",
+  "Divisa": "Dolar de Surinam",
+  "Codigo": "SRD"
+ },
+ {
+  "Pais": "TAILANDIA",
+  "Divisa": "Baht",
+  "Codigo": "THB"
+ },
+ {
+  "Pais": "TAIWAN",
+  "Divisa": "Nuevo dólar de Taiwan",
+  "Codigo": "TWD"
+ },
+ {
+  "Pais": "TAJIKISTAN",
+  "Divisa": "Somoni",
+  "Codigo": "TJS"
+ },
+ {
+  "Pais": "TERRITORIO BRITANICO DEL OCEANO INDICO",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "TERRITORIOS AUSTRALES FRANCESES",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "TIMOR ORIENTAL",
+  "Divisa": "Dolar estadounidense",
+  "Codigo": "USD"
+ },
+ {
+  "Pais": "TOGO",
+  "Divisa": "Franco CFA de Africa Occidental",
+  "Codigo": "XOF"
+ },
+ {
+  "Pais": "TOKELAU",
+  "Divisa": "Dolar neozelandés",
+  "Codigo": "NZD"
+ },
+ {
+  "Pais": "TONGA",
+  "Divisa": "Pa’anga",
+  "Codigo": "TOP"
+ },
+ {
+  "Pais": "TRINIDAD Y TOBAGO",
+  "Divisa": "Dolar de Trinidad y Tobago",
+  "Codigo": "TTD"
+ },
+ {
+  "Pais": "TURMENISTAN",
+  "Divisa": "Manat turcomano",
+  "Codigo": "TMT"
+ },
+ {
+  "Pais": "TURQUIA",
+  "Divisa": "Lira turca",
+  "Codigo": "TRY"
+ },
+ {
+  "Pais": "TUNEZ",
+  "Divisa": "Dinar tunecino",
+  "Codigo": "TND"
+ },
+ {
+  "Pais": "UGANDA",
+  "Divisa": "Chelin ugandes",
+  "Codigo": "UGX"
+ },
+ {
+  "Pais": "UKRANIA",
+  "Divisa": "Grivnia",
+  "Codigo": "UAH"
+ },
+ {
+  "Pais": "UNION EUROPEA",
+  "Divisa": "Euro",
+  "Codigo": "EUR"
+ },
+ {
+  "Pais": "URUGUAY",
+  "Divisa": "Peso uruguayo",
+  "Codigo": "UYU"
+ },
+ {
+  "Pais": "UZBEKISTAN",
+  "Divisa": "Som uzbeko",
+  "Codigo": "UZS"
+ },
+ {
+  "Pais": "VANUATU",
+  "Divisa": "Vatu",
+  "Codigo": "VUV"
+ },
+ {
+  "Pais": "VIETNAM",
+  "Divisa": "Dong",
+  "Codigo": "VND"
+ },
+ {
+  "Pais": "WALLIS Y FUTUNA",
+  "Divisa": "Franco CFP",
+  "Codigo": "XPF"
+ },
+ {
+  "Pais": "YEMEN",
+  "Divisa": "Rial yemeni",
+  "Codigo": "YER"
+ },
+ {
+  "Pais": "YIBUTI",
+  "Divisa": "Franco yibutiano",
+  "Codigo": "DJF"
+ },
+ {
+  "Pais": "ZAMBIA",
+  "Divisa": "Kwacha zambiano",
+  "Codigo": "ZMW"
+ },
+ {
+  "Pais": "ZIMBABUE",
+  "Divisa": "Dolar zimbabuense",
+  "Codigo": "ZWL"
+ }
+]
+
