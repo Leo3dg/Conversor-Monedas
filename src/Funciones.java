@@ -73,6 +73,14 @@ public class Funciones {
             moneda = (double) Math.round(moneda);
             if (cantidadMoneda>=valor) {
                 System.out.println(Variables.fVerde + "\t El valor de $"+cantidadMoneda+" " +divisasOrigen+" son $"+moneda+" "+divisasDestino+Variables.b);
+
+                String seguir;
+                Scanner teclado = new Scanner(System.in);
+                System.out.println("Para continuar presione cualquier tecla....");
+                try {
+                    seguir = teclado.nextLine();
+                }catch (Exception e){}
+
             }else{
                 System.out.println("\t La cantidad ingresada debe ser mayor que "+Variables.rojo+valor+Variables.b);
             }
